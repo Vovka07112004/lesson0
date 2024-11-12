@@ -3,7 +3,7 @@ name = 'Vladimir'
 print(name)
 age = 19
 print(age)
-new_age = 20
+new_age = age + 7
 print(new_age)
 is_strue = True
 print(is_strue)
