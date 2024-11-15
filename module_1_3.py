@@ -5,5 +5,5 @@ age = 19
 print(age)
 age = age + 7
 print(age)
-is_strue = True
-print(is_strue)
+is_student = True
+print(is_student)
